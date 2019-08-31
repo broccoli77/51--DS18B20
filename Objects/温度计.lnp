@@ -1,0 +1,5 @@
+".\Objects\STARTUP.obj",
+".\Objects\温度计.obj",
+".\Objects\onewire.obj" 
+TO ".\Objects\温度计" 
+PRINT(".\Listings\温度计.m51")
